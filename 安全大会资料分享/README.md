@@ -1,7 +1,5 @@
 # data-analysis
 
-![dd](https://img.shields.io/github/repo-size/secure-data-analysis-data-sharing/data-analysis.svg) 
-
 感谢诸位提供的各类安全资料，本项目主要用于收集安全数据分析群内资料，进行汇总共享。
 
 目前所有资料分为攻防对抗、安全分析、威胁情报、应急响应、物联网安全等五个部分。
