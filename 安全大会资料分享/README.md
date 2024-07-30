@@ -56,6 +56,4 @@
 - 智能设备安全分析手册.pdf
 - ioT安全.pdf
   
-## 推荐国内安全会议资料下载地址
-
-信息安全知识库<http://vipread.com>
+网盘地址：链接: https://pan.baidu.com/s/1ph-vw6KLqNW8AMuMcmvG0g 提取码: gggg
