@@ -6,6 +6,8 @@
 
 部分资料来源于互联网。如有侵权，请及时联系！
 
+下载地址：链接: https://pan.baidu.com/s/1ph-vw6KLqNW8AMuMcmvG0g 提取码: gggg
+
 ## 攻防对抗相关
 
 - [译] 渗透测试实战第三版(红队版).pdf
